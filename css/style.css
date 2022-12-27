@@ -976,7 +976,7 @@ footer {
 
 .form-input:focus {
 	border: 1px solid #2196f3;
-
+	fill: #2196f3;
 	outline: 0px;
 }
 .form-svg:focus {
